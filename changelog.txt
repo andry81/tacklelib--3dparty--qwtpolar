@@ -1,4 +1,4 @@
 2020.01.24:
-* new: library at release 1.1.0 r169 (2014.01.31) from https://sf.net/p/qwtpolar/files/qwtpolar/1.1.0/ (https://sf.net/p/qwtpolar/code/169/tree/branches/qwtpolar-1.1/ )
+* new: library at 1.2.0 r184 (2016.04.03) from https://svn.code.sf.net/p/qwtpolar/code/trunk (https://sf.net/p/qwtpolar/code/184/tree/trunk/qwtpolar/ )
 * new: readme file
 * new: changelog file
