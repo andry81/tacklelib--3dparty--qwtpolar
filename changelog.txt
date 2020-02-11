@@ -1,3 +1,6 @@
+2020.02.10:
+* changed: readme update
+
 2020.01.24:
 * new: library at 1.2.0 r184 (2016.04.03) from https://svn.code.sf.net/p/qwtpolar/code/trunk (https://sf.net/p/qwtpolar/code/184/tree/trunk/qwtpolar/ )
 * new: readme file
