@@ -39,13 +39,13 @@ QwtPolar is distributed under the terms of the Qwt License, Version 1.0.
 3. REPOSITORIES
 -------------------------------------------------------------------------------
 Primary:
-  * https://sf.net/p/tacklelib/3dparty--qwtpolar/HEAD/tree/trunk
-    https://svn.code.sf.net/p/tacklelib/3dparty--qwtpolar/trunk
+  * https://sf.net/p/tacklelib/3dparty--qwtpolar/HEAD/tree/branches
+    https://svn.code.sf.net/p/tacklelib/3dparty--qwtpolar/branches
 First mirror:
-  * https://github.com/andry81/tacklelib--3dparty--qwtpolar/tree/trunk
+  * https://github.com/andry81/tacklelib--3dparty--qwtpolar/tree/branches
     https://github.com/andry81/tacklelib--3dparty--qwtpolar.git
 Second mirror:
-  * https://bitbucket.org/andry81/tacklelib-3dparty-qwtpolar/src/trunk
+  * https://bitbucket.org/andry81/tacklelib-3dparty-qwtpolar/src/branches
     https://bitbucket.org/andry81/tacklelib-3dparty-qwtpolar.git
 
 -------------------------------------------------------------------------------
